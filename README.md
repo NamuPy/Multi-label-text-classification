@@ -6,6 +6,7 @@ A multi-label text classification is performed using 4 deep learning based model
 - Currently the code is structed assuming input data is from the OPP-115 Corpus (ACL 2016) available at https://usableprivacy.org/data/
 -  The OPP-115 Corpus (Online Privacy Policies, set of 115) is a collection of website privacy policies (i.e., in natural language) with annotations that specify data practices in the text
 - Each privacy policy was read and annotated by three graduate students in law. 
+- A few sample rows of the complete dataset have been uploaded as 'sample_OPP115.csv' to give a sence of the structure the data that is read in the codes
 
 ### Models used to perform classification
 
